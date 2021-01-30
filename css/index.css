@@ -1,0 +1,29 @@
+.mdc-top-app-bar{
+    background-color: white!important;
+    
+}
+
+.mdc-top-app-bar__navigation-icon{
+    color:white!important;
+    background-color: #4a67af;
+}
+
+.content {
+    background-color: #4a67af!important;
+    height: 100vh!important;
+    color:white;
+}
+
+.dab-care-pic-col-1 {
+    padding-top:3rem!important;
+    background-color: #fbf9ee!important;
+}
+
+.dab-care-pic-2 {
+    padding-top:3rem!important;
+}
+
+.dab-care-pic-1 {
+    width: 100%;
+    height: auto;
+}
